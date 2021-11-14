@@ -243,7 +243,8 @@ PRODUCT_PACKAGES += \
 # Libshims
 PRODUCT_PACKAGES += \
     libbase_shim \
-    libshims_camera
+    libshims_camera \
+    libshims_thermal
 
 # Light
 PRODUCT_PACKAGES += \
